@@ -1,7 +1,7 @@
-4f7daca081a8454c94ac4861579e0b5b *DESCRIPTION
+53715eee50cf13cbba774f2bb6e96b9f *DESCRIPTION
 fd6302a7bb0d29c2fba79b66644039bc *LICENSE
 d2cc19f4c53366f5a7d8f340c29abf30 *NAMESPACE
-0c09a262b53f02936bd37ea222c25ec3 *NEWS.md
+7a1a2ed42a4e058818071d2fec61a286 *NEWS.md
 88ef89f3a9de1b8c431c1ec5cd6b34af *R/cleancall.R
 3e13192b59bc5d5894248d030edfe1a5 *R/macos.R
 f18d693623307191c34f9ec7fc428310 *R/package.R
@@ -18,7 +18,7 @@ d41d8cd98f00b204e9800998ecf8427e *src/Makevars.win
 b7bf4a1950e7a186e9f74e6d13a1d7c4 *src/cleancall.h
 cdaa9f61e0d071554963fc0190c92701 *src/keyring-macos.c
 dd376a351dd445ae266962a003ef948f *src/keyring-secret-service.c
-e278d93979ef6558eb7a0520405ef510 *src/keyring-wincred.c
+12927191fe9aab24e51c75070a257de7 *src/keyring-wincred.c
 fc26fb1b140c25a377ffd42980b94df7 *src/oskeyring.h
 a111753ece648101064ff1e81039c7b6 *src/utils.c
 76be11612bb00d01b585b3df1da92a27 *tests/testthat.R
