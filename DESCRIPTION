@@ -1,6 +1,6 @@
 Package: oskeyring
 Title: Raw System Credential Store Access from R
-Version: 0.1.1
+Version: 0.1.2
 Author: Gábor Csárdi
 Maintainer: Gábor Csárdi <csardi.gabor@gmail.com>
 Description: Aims to support all features of the system credential store,
@@ -8,13 +8,12 @@ Description: Aims to support all features of the system credential store,
     and 'Credential Manager' on 'Windows'. See the 'keyring' package if you
     need a portable 'API'.
 License: MIT + file LICENSE
-LazyData: true
 URL: https://github.com/r-lib/oskeyring#readme
 BugReports: https://github.com/r-lib/oskeyring/issues
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2
 Suggests: askpass, testthat, withr
 Encoding: UTF-8
 NeedsCompilation: yes
-Packaged: 2020-11-09 10:19:07 UTC; gaborcsardi
+Packaged: 2021-11-17 14:58:01 UTC; gaborcsardi
 Repository: CRAN
-Date/Publication: 2020-11-09 10:30:02 UTC
+Date/Publication: 2021-11-20 01:20:02 UTC
