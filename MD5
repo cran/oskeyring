@@ -1,13 +1,13 @@
-7c414cd655d6fd9060c2339b757d2842 *DESCRIPTION
+2a63313e8b84ecf726416d6a15735db4 *DESCRIPTION
 fd6302a7bb0d29c2fba79b66644039bc *LICENSE
 d2cc19f4c53366f5a7d8f340c29abf30 *NAMESPACE
-9a1b36bb8b16393253d7bd778bdaf053 *NEWS.md
+b2f4a2a9b8d8261ae3b4ae411b15d32c *NEWS.md
 88ef89f3a9de1b8c431c1ec5cd6b34af *R/cleancall.R
 3e13192b59bc5d5894248d030edfe1a5 *R/macos.R
 f18d693623307191c34f9ec7fc428310 *R/package.R
 c427b553020a302a61cfff192dcafb99 *R/utils.R
 a66ae5435347a1474cb13849963c7501 *R/windows.R
-652965a67c6a6d6fd6e9f906afb152b2 *README.md
+40bda6ebbc28c755d7d7233d6d473de5 *README.md
 8127adfe730c7dbcecf873824e2385f7 *configure
 68b329da9893e34099c7d8ad5cb9c940 *configure.win
 c4726e0a73bc3fa01b3079992caffdd6 *man/macos_keychain.Rd
@@ -16,7 +16,7 @@ c4726e0a73bc3fa01b3079992caffdd6 *man/macos_keychain.Rd
 d41d8cd98f00b204e9800998ecf8427e *src/Makevars.win
 90ecd56fd1aa9fefb59253e1b4b6d50d *src/cleancall.c
 b7bf4a1950e7a186e9f74e6d13a1d7c4 *src/cleancall.h
-8422796932e3e3583a7158769e2ffaa2 *src/keyring-macos.c
+54a718c77f917e005085ca62fbaf626b *src/keyring-macos.c
 dd376a351dd445ae266962a003ef948f *src/keyring-secret-service.c
 12927191fe9aab24e51c75070a257de7 *src/keyring-wincred.c
 fc26fb1b140c25a377ffd42980b94df7 *src/oskeyring.h

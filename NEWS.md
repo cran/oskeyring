@@ -1,3 +1,9 @@
+# oskeyring 0.1.3
+
+
+# development version
+
+* This version fixes a potential crash on macOS (#11).
 
 # 0.1.2
 

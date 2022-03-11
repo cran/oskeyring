@@ -1,6 +1,6 @@
 Package: oskeyring
 Title: Raw System Credential Store Access from R
-Version: 0.1.2
+Version: 0.1.3
 Author: Gábor Csárdi
 Maintainer: Gábor Csárdi <csardi.gabor@gmail.com>
 Description: Aims to support all features of the system credential store,
@@ -14,6 +14,6 @@ RoxygenNote: 7.1.2
 Suggests: askpass, testthat, withr
 Encoding: UTF-8
 NeedsCompilation: yes
-Packaged: 2021-11-17 14:58:01 UTC; gaborcsardi
+Packaged: 2022-03-11 12:00:40 UTC; gaborcsardi
 Repository: CRAN
-Date/Publication: 2021-11-20 01:20:02 UTC
+Date/Publication: 2022-03-11 12:10:02 UTC
